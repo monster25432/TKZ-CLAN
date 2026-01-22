@@ -464,6 +464,51 @@ body {
     color: white;
 }
 
+.social-icon.tiktok {
+    color: #000000;
+}
+
+.social-icon.tiktok:hover {
+    background: #000000;
+    color: white;
+    transform: translateY(-5px);
+}
+
+.social-icon.tiktok:hover i,
+.social-icon.tiktok:hover span {
+    color: white;
+}
+
+.social-icon.instagram {
+    color: #e4405f;
+}
+
+.social-icon.instagram:hover {
+    background: #e4405f;
+    color: white;
+    transform: translateY(-5px);
+}
+
+.social-icon.instagram:hover i,
+.social-icon.instagram:hover span {
+    color: white;
+}
+
+.social-icon.facebook {
+    color: #1877f2;
+}
+
+.social-icon.facebook:hover {
+    background: #1877f2;
+    color: white;
+    transform: translateY(-5px);
+}
+
+.social-icon.facebook:hover i,
+.social-icon.facebook:hover span {
+    color: white;
+}
+
 /* Footer */
 .footer {
     background: var(--primary-color);
